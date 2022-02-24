@@ -1,2 +1,1 @@
 # simple-gitops
-simple-gitops
