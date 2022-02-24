@@ -8,4 +8,4 @@ resources:
 - ingress-preview-simple-api.yaml
 images:
 - name: madyoung77/simple-api
-  newTag: RB0.0.12
+  newTag: RB0.0.03
